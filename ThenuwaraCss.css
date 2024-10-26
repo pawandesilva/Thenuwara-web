@@ -1,0 +1,61 @@
+.move-down{
+    margin: 500px;
+    
+}
+.height1{
+    height: 25%;
+    margin-top: 500%;
+}
+.height2{
+    height: 30%;
+    margin-top: 50%;
+}
+.hbackgroundColor{
+    background-color: #ffe680;
+    
+}
+.custom-img{
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+    
+}
+
+.body{
+    background-image: url("C:\xampp\htdocs\Thenuwara\contact wallpaper.jpg");
+}
+.jumbotron {
+      /* Set the background image and its properties */
+      background-image: url('contact wallpaper.jpg'); /* Replace 'path/to/your/image.jpg' with the actual path to your image */
+      background-size: cover; /* Ensure the background image covers the entire jumbotron */
+      background-position: center; /* Position the background image at the center */
+      color: white;
+}
+.form{
+    background-color: red;
+    
+}
+    /* Custom styles for blue theme */
+.blue-bg {
+      background-color: #3498db;
+      color: #fff; /* Text color */
+    }
+.blue-bg p {
+      color: #fff; /* Text color */
+    }
+.footer {
+    background:#303030;
+    padding: 35px 0;
+    text-align: center;
+    bottom: 0;
+    width: 100%;
+    height: auto;
+    display: inline-block;
+    align-content: center;
+}
+.carousel-item img {
+      width: 100%;
+      height: 400px; /* Adjust the height as needed */
+      object-fit: cover;
+      margin-top: 500px;
+    }
